@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/socon01/static/js/main.d8c17e2a.js",
+    "main.js": "/socon01/static/js/main.a360a141.js",
     "index.html": "/socon01/index.html",
-    "main.d8c17e2a.js.map": "/socon01/static/js/main.d8c17e2a.js.map"
+    "main.a360a141.js.map": "/socon01/static/js/main.a360a141.js.map"
   },
   "entrypoints": [
-    "static/js/main.d8c17e2a.js"
+    "static/js/main.a360a141.js"
   ]
 }
